@@ -1,5 +1,3 @@
-Hi I Am Kavya Mulimani👋
-
 # 💫 About Me:
 🔭 I’m currently working on Frontend Development projects using HTML, CSS, and JavaScript.<br>👯 I’m looking to collaborate on beginner-friendly web development projects.<br>🤝 I’m looking for help with improving my coding skills and real-world projects.<br>🌱 I’m currently learning Frontend Development, Git, GitHub, and Spoken English.<br>💬 Ask me about HTML basics, GitHub uploads, and beginner web development.<br>⚡ Fun fact: I learn something new every day to achieve my dream job in an MNC company.
 
